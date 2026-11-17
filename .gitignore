@@ -1,0 +1,28 @@
+# Entorno virtual
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Datos sensibles o pesados
+data/raw/
+*.csv
+*.xlsx
+
+# Reportes generados
+reports/
+figures/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.jupyter/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
