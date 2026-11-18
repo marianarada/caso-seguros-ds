@@ -10,7 +10,7 @@ __pycache__/
 
 # Datos sensibles o pesados
 data/raw/
-*.csv
+data/*.csv
 *.xlsx
 
 # Reportes generados
