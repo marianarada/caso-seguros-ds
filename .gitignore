@@ -13,9 +13,6 @@ data/raw/
 data/*.csv
 *.xlsx
 
-# Reportes generados
-reports/
-figures/
 
 # VS Code
 .vscode/
